@@ -32,6 +32,7 @@ public class D01FileParser {
         
         content = content.replaceAll("\n", "");
         
+        
         System.out.println("content" +content);
         
         Long serviceReferenceNumber = Long
